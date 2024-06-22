@@ -1,4 +1,4 @@
 # GIT-INTRO
 This is my first GIT Repository 
 <br>
-Author- Shivam Singh
+Author- Shivam B Singh
